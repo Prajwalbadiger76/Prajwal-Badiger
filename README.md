@@ -21,6 +21,6 @@
 
 ## How to Run
 1. Save each file with the correct name (`Problem-1.java`, etc.).
-2. Compile:
-3. Run:
+2. Compile the code.
+3. Run the code.
 Repeat for other problems.
