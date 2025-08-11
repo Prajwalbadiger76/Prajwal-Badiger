@@ -2,7 +2,7 @@
 
 # Stage-1: First Screening Test
 
-**Name:** Prajwal [Replace with your full name]  
+**Name:** Prajwal Badiger 
 **Language Used:** Java  
 
 ## Problems Solved
@@ -12,7 +12,7 @@
 - Problem-4: Multiples count in a list (1 to 9)
 
 ## GitHub Format
-- **Project Name:** {Your Full Name}
+- **Project Name:** Prajwal-Badiger
 - **File Names:**
   - Problem-1.java
   - Problem-2.java
