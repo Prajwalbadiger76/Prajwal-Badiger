@@ -25,7 +25,7 @@
 
 ---
 
-## ▶️ How to Run the Programs  
+##  How to Run the Programs  
 1. Save each file with the given name (e.g., Problem1.java).  
 2. Open a terminal and navigate to the project folder.  
 3. Compile the program:  
