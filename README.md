@@ -1,13 +1,13 @@
 # Prajwal-Badiger  
 
-## 📌 Stage-1: First Screening Test  
+##  Stage-1: First Screening Test  
 
 **Candidate Name:** Prajwal Badiger  
 **Programming Language:** Java  
 
 ---
 
-## ✅ Problems Implemented  
+##  Problems Implemented  
 1. **Problem1:** Calculator using switch-case  
 2. **Problem2:** Generate a series of odd numbers  
 3. **Problem3:** Generate odd number series up to a given limit (custom logic)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 📂 Repository Structure  
+##  Repository Structure  
 - **Project Name:** Prajwal-Badiger  
 - **Source Files:**  
   - Problem1.java  
